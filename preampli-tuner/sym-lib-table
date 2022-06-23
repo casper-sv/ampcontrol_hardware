@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LibPerso)(type Legacy)(uri D:/Electronique/kicad/LibPerso.lib)(options "")(descr ""))
+  (lib (name megasaturnv_custom_components)(type Legacy)(uri D:/Electronique/kicad/kicad-custom-components-library-master/megasaturnv_custom_components.lib)(options "")(descr ""))
+)
